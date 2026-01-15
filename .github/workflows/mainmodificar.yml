@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  ModificaRepositoriGithubAmbGithubActions_ElTeuNom:
+  ModificaRepositoriGithubAmbGithubActions_Eleazar-1:
     runs-on: ubuntu-latest
     permissions:
       contents: write
